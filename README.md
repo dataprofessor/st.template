@@ -9,6 +9,8 @@
 ## Code
 Here's how to use st.write:
 ```python
+import streamlit as st
+
 
 ```
 
